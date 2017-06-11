@@ -1,0 +1,19 @@
+{
+  "name": "@part-time-pros/rltracker-embed",
+  "version": "0.2.0",
+  "description": "Converts the result of @part-time-pros/rltracker-api to a discord embed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rocket-league-ptp/rltracker-embed.git"
+  },
+  "author": "illegal-function",
+  "license": "UNLICENCED",
+  "bugs": {
+    "url": "https://github.com/rocket-league-ptp/rltracker-embed/issues"
+  },
+  "homepage": "https://github.com/rocket-league-ptp/rltracker-embed#readme"
+}
